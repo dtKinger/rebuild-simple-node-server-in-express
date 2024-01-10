@@ -1,0 +1,14 @@
+{
+  "name": "rebuild-node-server-in-express",
+  "version": "1.0.0",
+  "description": "App that Controls static routes and serves HTML pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dtKinger",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
